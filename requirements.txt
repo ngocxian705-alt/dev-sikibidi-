@@ -10,3 +10,4 @@ PyJWT
 pytz
 Requests
 urllib3
+gunicorn
